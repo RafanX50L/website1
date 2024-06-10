@@ -1,0 +1,47 @@
+.top-bar{
+    position: fixed;
+    z-index: 100;
+    display:block;
+    background-color: #1f292e;
+    height: 67px;
+    margin-bottom: 1px;
+    width: 100%;
+    display: inline-flex;
+}
+.logo{
+    width:130.17px;
+    height: 37px;
+    padding-left: px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+
+}
+.top{
+    width: 100%;
+    display:flex;
+}
+a{
+    padding-left: 33px;
+    color: white;
+    font-weight: 700;
+    font-family:  "Alaska Beta VAR", sans-serif;
+    font-size: 14.1px;
+    text-decoration: none;
+    width: 91.9px;
+}
+.some{
+    padding-top: 22px;
+}
+
+.some span{
+    padding-left: 10px;
+}
+.icon{
+    padding-top: 22px;
+    padding-right: 20px;
+}
+.icon-box{
+    display: flex;
+    justify-content: end;
+    margin-left: 342px;
+}

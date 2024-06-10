@@ -1,0 +1,31 @@
+.footer1{
+    background:#2F383D;
+    padding-top: 72px;
+    padding-left: 32px;
+    
+}
+.right-pad{
+    padding-right: 32px;
+}
+.choose-content{
+    display: flex;;
+}
+.choose-content-text{
+    width: 25%;
+    color: white;
+    font-family:"Alaska Beta VAR", sans-serif;
+    font-weight: 530;
+    font-size: 12px;
+    padding-bottom: 16px;
+}
+.choose-head{
+    display: block;
+    color: white;
+    font-weight: 600;
+    font-family:"Alaska Beta VAR", sans-serif;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+.bottom-gap{
+    padding-bottom: 24px;
+}

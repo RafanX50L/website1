@@ -1,0 +1,49 @@
+.footer2{
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 30px;
+    padding-bottom: 72px;
+    background:#1F292E;
+}
+.content1{
+    display: flex;
+}
+.coloumn{
+    width: 25%;
+}
+.content-head{
+    display: block;
+    color: white;
+    font-weight: 900;
+    font-family:"Alaska Beta VAR", sans-serif;
+    font-size: 14px;
+    margin-bottom: 24px;
+}
+.content-text{
+    width: 100%;
+    display: flex;
+    color: white;
+    font-family: "Alaska Beta VAR", sans-serif;
+    font-weight: 530;
+    font-size: 12px;
+    align-items: center;
+    margin-bottom: 16px;
+    
+    
+}
+.copy{
+    display: block;
+    text-align: center;
+    padding: 16px;
+    background:#1F292E;
+    color: white;
+    font-family:"Alaska Beta VAR", sans-serif;
+    font-weight: 400;
+    font-size: 14.4px;
+}
+.gap{
+    padding-right: 5px;
+}
+.content-text span{
+    padding-bottom: 2px;
+}

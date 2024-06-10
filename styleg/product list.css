@@ -1,0 +1,102 @@
+.product-list-padding{
+    padding-left: 27.3px;
+    padding-right: 17px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.product-list-head{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Alaska Beta VAR", sans-serif;
+    font-size: 33.5px;
+    font-weight:700;
+    margin-bottom: 20px;
+    color: #1a181e;
+}
+.product-list-head-left{
+    text-decoration: underline;
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 18px;
+    line-height: 26px;
+    color: black;
+    
+}
+.product-list-image{
+    display: flex;
+    padding-left: 2px;
+}
+.product-image img{
+    width: 206px;
+    border:1px solid rgb(218, 217, 217);
+    margin-right: 22px;
+}
+.image5{
+    margin-right: -19px;
+}
+.product-image{
+    position: relative;
+}
+.plus{
+    position: absolute;
+    height: 32px;
+    width: 32px;
+    bottom: 12px;
+    left: 7px;
+    border: 1px solid black;
+    border-radius: 0px;
+    background-color: white;
+}
+.buttons{
+    position: absolute;
+    background-color:  #0040e7;
+    top: 0;
+    bottom: -10p;
+    right: 23px;
+
+}
+.text-offer{
+    text-align: center;
+    width: 30px;
+    height: 42px;
+    font-family: "Alaska Beta VAR", sans-serif;
+    padding-left: 3px;
+    padding-right: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+}
+.under-image{
+    font-family: "Alaska Beta VAR", sans-serif;
+    margin-top: -6px;
+    border:1px solid rgb(218, 217, 217);
+    width: 206px;
+    font-weight: 600;
+}
+.under-image p{
+    line-height: 35px;
+    font-size:large;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.under-image text{
+    font-weight: 900px;
+
+}
+.textwe{
+    text-decoration: line-through;
+    color: gray;
+    font-weight: lighter;
+    font-size: 14.5px;
+}
+.textw{
+    padding-left: 5px;
+    font-weight: 900;
+    font-size: larger;
+    font-family: Arial;
+}

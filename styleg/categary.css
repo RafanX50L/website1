@@ -1,0 +1,35 @@
+.categary{
+    padding-top: 80px;
+    padding-bottom: 83px;
+}
+.cat-head{
+    display: block;
+    text-align: center;
+    font-family:  "Alaska Beta VAR", sans-serif;
+    font-size :36px;
+    font-weight: 600;
+}
+.cat-content{
+    display: flex;
+    padding-left: 28px;
+    padding-right: 32px;
+}
+.cat-image1{
+    width :173px;
+    margin-right:10px;
+}
+.cat-content2{
+    width: 1246px;
+}
+.cat-image img{
+    height :155px;
+    width :157.5px;
+    
+}
+.cat-text{
+    display: block;
+    text-align :center;
+    font-size: 16px;
+    font-weight :600;
+    font-family:  "Alaska Beta VAR", sans-serif;
+}
